@@ -94,6 +94,8 @@ form {
   outline: transparent;
 }
 .left_box {
+  /* display: flex;
+  flex-direction: column; */
   width: 40%;
 
   padding: 10px;
